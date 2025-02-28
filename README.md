@@ -1,4 +1,4 @@
-# Hi 👋! My name is Andy, a Back-End developer from Taiwan
+# Hi 👋! I'm Andy, a Back-End developer from Taiwan
 
 ## 🚀 About Me
 - 🔭 I’m currently working on **Backend Development**
